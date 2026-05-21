@@ -2831,7 +2831,7 @@ public class lolkek extends Application {
         public SimpleDoubleProperty percentProperty() { return percent; }
     }
 
-    // НОВЫЙ ВНУТРЕННИЙ КЛАСС ДЛЯ РЕГУЛЯРНЫХ ПЛАТЕЖЕЙ
+    // НОВЫЙ ВНУТРaЕННИЙ КЛАСС ДЛЯ РЕГУЛЯРНЫХ ПЛАТЕЖЕЙ
     public static class RecurringPayment {
         private final SimpleStringProperty name;
         private final SimpleDoubleProperty amount;
